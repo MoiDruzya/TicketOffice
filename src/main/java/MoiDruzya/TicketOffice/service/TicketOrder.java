@@ -1,4 +1,4 @@
-package MoiDruzya.TicketOffice.entity;
+package MoiDruzya.TicketOffice.service;
 import lombok.Data;
 import org.hibernate.validator.constraints.CreditCardNumber;
 

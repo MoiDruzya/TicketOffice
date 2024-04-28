@@ -9,7 +9,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class TicketOrderResponseDto {
+public class CreateOrderResponseDto {
     private Long id;
     private Date purchaseDate;
     private Double sum;
